@@ -1,8 +1,19 @@
-# my_set = {2,5,9,12,5,5,26,7,3,9}
-my_list = [3,5,12,5,8,6,9,5,8]
+my_dict = {
+    "name":"lakki",
+    "age":26,
+    'city':"Unknown"
+}
 
-newSet = set(my_list)
-print(newSet,type(newSet))
+# print(my_dict)
+# print(my_dict["city"])
+print(my_dict.keys())
+
+
+# my_set = {2,5,9,12,5,5,26,7,3,9}
+# my_list = [3,5,12,5,8,6,9,5,8]
+
+# newSet = set(my_list)
+# print(newSet,type(newSet))
 
 # my_set.add("money")
 # print(my_set)
