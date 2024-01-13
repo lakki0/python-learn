@@ -36,4 +36,4 @@ a='karma'
 # print(a[::-1])
 
 b = " is bitch"
-print(a+b)
+print
