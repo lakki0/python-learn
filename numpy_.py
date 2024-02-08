@@ -1,6 +1,18 @@
+import numpy as np
+
+arr = np.array([2,3,4,5,6,12,7,9,23,3,56,34])
+arr_2 = arr.reshape(2,3,2)
+print(arr_2)
 
 
-# import numpy as np
+# arr = np.array([2,5,3,6])
+# print(arr[2]+arr[3])
+
+# num = np.random.randint(100)
+# print(num)
+
+# arr = np.random.randint(100,size=5)
+# print(arr)
 
 # arr = np.array([2,3,4,5,6,12,3,56,34])
 
